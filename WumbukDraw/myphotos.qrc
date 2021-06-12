@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>about.png</file>
+        <file>add.png</file>
+        <file>dash.png</file>
+        <file>dot.png</file>
+        <file>eraser.png</file>
+        <file>logo.png</file>
+        <file>new.png</file>
+        <file>open.png</file>
+        <file>pen.png</file>
+        <file>reform.png</file>
+        <file>save.png</file>
+        <file>saveas.png</file>
+        <file>solid.png</file>
+        <file>sub.png</file>
+        <file>undo.png</file>
+        <file>theCircle.png</file>
+        <file>theEllipse.png</file>
+        <file>theErase.png</file>
+        <file>theLine.png</file>
+        <file>thePen.png</file>
+        <file>thePenPath.png</file>
+        <file>thePhoto.png</file>
+        <file>theRect.png</file>
+        <file>theText.png</file>
+        <file>BoldFalse.png</file>
+        <file>BoldTrue.png</file>
+        <file>ItaticFalse.png</file>
+        <file>ItaticTrue.png</file>
+    </qresource>
+</RCC>
